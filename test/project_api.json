@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "seraphic-amp-450816-j5",
+  "private_key_id": "f74e8d5f8b93e0570db651e98bc5ba829118bd6f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/QkdTfrgMNdYW\nNrWKPQirLdnw4ewMkqAltfTE5DobDLpXzPqZKdbxuPj3bwt44FcpG1K4YZgbi30r\nsGUh/9hnNzvsGUyvToTcrUQMyxNpqyZ0ajwFUlDnvQIAZF4FpH9OYACR5O/JFFa2\npDoUF2SnZZ4ReUHcEVioJgi9hHHBU2b9ApIGtLpEfVZfOyG3NrSHsqEQBnLRkkSy\nwtgGrWDjP5xT0TVuvazbzrsq3Q9p7BTHWXhw01/tDCvVLe13aHk+ir+PkwSFKmBn\nnyJPWg6XiNAi0PTSMWJRbnZHL1ryPhjfVWgjEnE9vwuyQM8afAJgKqMgjN+Gap61\nVB9Mxqv1AgMBAAECggEAD2BvxZm5iFnHtY9+dvfDO6f7Dq/LP5OGRqHjZPUIauZS\nEP8M4sWHX3XEpngKDxTSTR7CPsqx5P0I+js7Vklwh5PcQHYkQS/p5KgVgYXOML+u\n3ssvuinNEWSTxZ5MJN390jpLsW8bjCoTcqmvdbAPypmT5Mm/7saCPzqXl00PrEA5\nYUKq3EalWY0cIQffkfuJj7HH9SDPX1iIQAdU4r82K3Ldq5KLPPqmabfQBJmRIvFB\nw/iUt8vX2Ydlfy/R/tM13jc1aupoxUrOVRzElmaD+Vae5TUFGaRxx4Am/TJaQylL\n/MzzWTXrPVGV25xRjvXr5RwY8NmcJcCebM3HW50vIQKBgQD/8pgoceYb685E5DJM\no5pYXR+75jL+fgMvRJ937MDbLBKT15u52SS3ZPC4lyZdMgz64JGrdunm5QjiQKNo\nnf2iOfM9SjGtv7o5pxdclzG3peNGU5e0l4Qf6TqgEWuzt6aaV3u9KkQ/rZ7HFPOm\n2txJPalk+2KOpVsNzm28a1IFWQKBgQC/TEvMHdgDiqgWYYbV3GlqV5ixnjNvp5Gh\nO9LGd+J4FFBNBNKSGlcOnTDQRTf/GvGT/Ll7n/Oxa/FCv/YtRA3DkBQmY4MSqwcg\nZCnSS4OdWizKY4MvGEBbh1l3mJJdWmNzi6SayO9nlEOtvsTElb5jVIyDI9OjdTYJ\nnigdh38b/QKBgQCqqWUB2uiXh4VTdGGBrrk04GtPi/BGt1mCRBydB3WU7u84O1Tv\n+DU+QAUu4EJJdB0pj2IyVakjN2bUDkunb2l2qXNiU72KYERZOuwd5gbVsLw54XVP\nipQj/w0DPHp3LCbf1SOB/9PgLfGoR3UrtdWa1I3F8sVF3kY3j4SmVV0siQKBgQCc\nBdJcbIreeJyXhHvAucCQp1k2pN021+kDJBPJI8ZmQcssxh4oY6tVlAdYFtyRCJy4\nIov1tIPB1VQ1KPPT/4lqU3zbwpYJB80MMiWaC1URZZbai0dXheQXwtDJpnraAPrU\nJrTeObxpMpfwgYNjAu8BfNgNrY7T5qloNsJpMzYM0QKBgAMLA/jhNcyQ9cR6OoQ4\n8X1mJ5zKkzkegtjbimPXtFnr1gUVkPogapkkD0/SRpR5RDMEI9tP3Lq34tUMDjJ2\nAyfyjgutxv0QUafSo3gKypL+zB0IOPpCVzGeMEpqYRNio1eLAr/cHt4kULKP111G\nJHWjj+zYfPJYg7IME8791CrE\n-----END PRIVATE KEY-----\n",
+  "client_email": "sujith@seraphic-amp-450816-j5.iam.gserviceaccount.com",
+  "client_id": "102185562631164749264",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sujith%40seraphic-amp-450816-j5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
